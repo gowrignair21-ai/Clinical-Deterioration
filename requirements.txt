@@ -604,11 +604,11 @@ toolz==0.12.1
 torch==2.10.0
 torchao==0.10.0
 torchaudio
-torchcodec @ https://download.pytorch.org/whl/cpu/torchcodec-0.10.0-cp312-cp312-manylinux_2_28_x86_64.whl
+torchcodec
 torchdata==0.11.0
 torchsummary==1.5.1
 torchtune==0.6.1
-torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.25.0%2Bcpu-cp312-cp312-manylinux_2_28_x86_64.whl
+torchvision
 tornado==6.5.1
 tqdm==4.67.3
 traitlets==5.7.1

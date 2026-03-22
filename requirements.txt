@@ -273,7 +273,6 @@ jupyter-events==0.12.0
 jupyter-leaflet==0.20.0
 jupyter_client==7.4.9
 jupyter_core==5.9.1
-jupyter_kernel_gateway @ git+https://github.com/googlecolab/kernel_gateway@b134e9945df25c2dcb98ade9129399be10788671
 jupyter_server==2.14.0
 jupyter_server_terminals==0.5.4
 jupyterlab_pygments==0.3.0
@@ -602,7 +601,7 @@ tokenizers==0.22.2
 toml==0.10.2
 tomlkit==0.13.3
 toolz==0.12.1
-torch @ https://download.pytorch.org/whl/cpu/torch-2.10.0%2Bcpu-cp312-cp312-manylinux_2_28_x86_64.whl
+torch==2.10.0
 torchao==0.10.0
 torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.10.0%2Bcpu-cp312-cp312-manylinux_2_28_x86_64.whl
 torchcodec @ https://download.pytorch.org/whl/cpu/torchcodec-0.10.0-cp312-cp312-manylinux_2_28_x86_64.whl
